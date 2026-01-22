@@ -1,9 +1,9 @@
-🧹 NLP Text Preprocessing App (Streamlit)
-📌 Overview
+## 🧹 NLP Text Preprocessing App (Streamlit)
+## 📌 Overview
 
 This project is a simple Streamlit-based web application that demonstrates Natural Language Processing (NLP) text preprocessing. It converts messy raw text into clean and normalized text suitable for machine learning and NLP tasks.
 
-🎯 Features
+## 🎯 Features
 
 Convert text to lowercase
 
@@ -34,10 +34,10 @@ project/
  ├── app.py
  └── requirements.txt
 
-📝 Use Case
+##📝 Use Case
 
 Text preprocessing is an essential step in NLP pipelines. This application helps clean textual data, improving readability and enhancing the performance of NLP and machine learning models.
 
-✅ Output
+## ✅ Output
 
 The app displays the cleaned version of the input text after removing noise and unnecessary elements.
