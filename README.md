@@ -1,4 +1,4 @@
-## 🧹 NLP Text Preprocessing App (Streamlit)
+#🧹 NLP Text Preprocessing App
 ## 📌 Overview
 
 This project is a simple Streamlit-based web application that demonstrates Natural Language Processing (NLP) text preprocessing. It converts messy raw text into clean and normalized text suitable for machine learning and NLP tasks.
