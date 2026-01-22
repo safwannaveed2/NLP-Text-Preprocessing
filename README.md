@@ -29,21 +29,7 @@ NLTK
 
 Regular Expressions (Regex)
 
-▶️ How to Run the App
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the application:
-
-streamlit run app.py
-
-
-Open the browser and enter messy text to see the cleaned output.
-
-📂 Project Structure
+## 📂 Project Structure
 project/
  ├── app.py
  └── requirements.txt
